@@ -1,0 +1,23 @@
+{
+  "name": "imaginary-cloud-hosting-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nafi635/imaginary-cloud-hosting-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nafi635/imaginary-cloud-hosting-website/issues"
+  },
+  "homepage": "https://github.com/nafi635/imaginary-cloud-hosting-website#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
