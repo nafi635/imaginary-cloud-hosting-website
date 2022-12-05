@@ -31,3 +31,7 @@ It was good learning experience. I am not making any changes.
 
 # Website URL
 * Please visit https://ifan-ify.netlify.app/
+
+# Landing page
+![image](https://user-images.githubusercontent.com/112454322/205640063-c161406f-00cb-4150-a69c-e1d609cf1111.png)
+
