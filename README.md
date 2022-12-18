@@ -2,7 +2,7 @@
 
 # Overview
 
-Developed as cloud hosting front end website which consists of different features such as buying a domain, showing plans of domain buying, checking differen domain websites and some of the extra information..etc. 
+Developed a cloud hosting front end website which consists of different features such as buying a domain, showing plans of domain buying, checking differen domain websites and some of the extra information..etc. 
 
 # Implementation Overview
 Implemented as total front end website with b
